@@ -1,0 +1,42 @@
+_repo: The-Road-to-En-Dor-Being-an-Account-of-How-Two-Prisoners-of-War-at-Yozgad-in-Turkey-Won-Their__51754
+_version: 0.0.1
+alternative_title: The Road to Endor
+contributor:
+  photographer:
+    agent_name: Hill, C. W. (Cedric Waters)
+    alias: Hill, Cedric Waters
+    birthdate: 1891
+    deathdate: 1975
+    gutenberg_agent_id: '45610'
+    url: http://www.gutenberg.org/2009/agents/45610
+creator:
+  author:
+    agent_name: Jones, E. H. (Elias Henry)
+    alias: Jones, Elias Henry
+    birthdate: 1883
+    deathdate: 1942
+    gutenberg_agent_id: '46540'
+    url: http://www.gutenberg.org/2009/agents/46540
+description: ''
+gutenberg_issued: '2016-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hill, C. W. (Cedric Waters), 1891-1975'
+- !lcsh 'Spiritualism'
+- !lcc 'D501'
+- !lcsh 'Prisoner-of-war escapes'
+- !lcsh 'Jones, E. H. (Elias Henry), 1883-1942'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons, Turkish'
+- GITenberg
+title: 'The Road to En-Dor
+
+  Being an Account of How Two Prisoners of War at Yozgad in Turkey Won Their Way to
+  Freedom'
+url: http://www.gutenberg.org/ebooks/51754
